@@ -1,11 +1,11 @@
 # Diabetes-Prediction-Using-Logistic-Regression-and-Neural-Networks
-Diabetes Prediction with Advanced Data Science Techniques
 
 Goal:
 
 The goal of this project is to develop an accurate and reliable predictive model for diabetes using advanced data science techniques. The primary objective is to provide healthcare professionals with a tool that not only identifies the likelihood of diabetes early on but also offers valuable insights into the impact of various factors on diabetes risk.
 
-Data Source:kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
+Data Source: 
+kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
 Scope:
 
@@ -20,14 +20,15 @@ Continuous Improvement:
 Address potential dataset issues and propose future enhancements for continuous refinement.Strive for a balance between model interpretability and complexity.
 
 Methodology:
-1. Data Cleaning:
+
+Data Cleaning:
 
 Handling Missing Data:
 Remove missing values, ensuring accuracy and reliability of results.
 Data Transformation:
 Transform categorical variables, such as 'Smoking History,' for better model compatibility.
 
-2. Model Development:
+Model Development:
 
 Logistic Regression:
 Develop a binary classification model providing interpretable results.Utilize stepwise selection for variable inclusion.
@@ -44,7 +45,7 @@ Data Visualization:
 Histograms, Scatterplots, Boxplots:
 Visualize data characteristics to identify outliers, trends, and patterns.Enhance understanding of variables and their impact on diabetes.
 
-Model Performance and Evaluation:
+Model Performance Evaluation:
 The logistic regression model exhibited outstanding accuracy at 94.75%, with a specificity of 97.77% and a sensitivity of 67.98%. Comparative analysis with decision trees and neural networks provided valuable insights into alternative modeling approaches.
 
 Conclusions and Recommendations:
